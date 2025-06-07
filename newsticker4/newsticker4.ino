@@ -5,10 +5,10 @@
 #include <U8g2lib.h>
 
 // WiFi credentials
-const char* ssid = "a3j-radio-nw";
-const char* password = "Wh1t3y4M1ll1c4n0";
+const char* ssid = "Your SSD";
+const char* password = "Your WIFI Password";
 
-// RSS Feed URLs
+// RSS Feed URLs - DEFINE YOUR RSS FEEDS HERE"
 const char* newsUrls[] = {
    "https://www.nu.nl/rss/Algemeen",
    "https://feeds.bbci.co.uk/news/rss.xml",
@@ -16,8 +16,8 @@ const char* newsUrls[] = {
    "https://feeds.skynews.com/feeds/rss/home.xml",
    "https://www.reutersagency.com/feed/?best-types=reuters-news-first&post_type=best"
 };
-const int numFeeds = 4;
-int currentFeed = 0;
+const int numFeeds = 4; // DEFINE THE NUMBER OF LIVE RSS FEEDS
+int currentFeed = 0; // START RSS URL
 
 // SH1106 Display
 U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
