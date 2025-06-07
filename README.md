@@ -3,6 +3,8 @@ Showing customised RSS Feeds on a OLED display, never miss the latest head lines
 
 # ESP-32 RSS News Ticker
 
+<img src="./images/Untitled3.jpeg" style="width:50%; height:auto;">
+
 I had some ESP-32 DEVKITs left over and a SH1106 OLED display. I thought wouldn't be nice to have a news ticker that would be playing away in the back ground.
 
 I am Dutch living in the UK so my feeds are a mixture of Dutch /UK and international news but as long as you can find the RSS feed, you can display anything you like.
@@ -28,4 +30,4 @@ Feel free to have a play
     images
 
 ![Alt text](./images/Untitled3.jpeg)
-<img src="./images/Untitled3.jpeg" style="width:50%; height:auto;">
+
