@@ -12,7 +12,7 @@ I am Dutch living in the UK so my feeds are a mixture of Dutch /UK and internati
 **Prerequisites:**
  1. ESP-32 Devkit or similar
  2. Wifi internet connection :-)
- 3. SH1106 OLED screen. (Will work with different different I2C OLEDs but the code needs to be modified
+ 3. SH1106 OLED screen. (Will work with different different I2C  OLEDs but the code needs to be modified
  4. Arduino IDE
  5. Hookup wiring or soldering skills
 
@@ -21,15 +21,10 @@ I am Dutch living in the UK so my feeds are a mixture of Dutch /UK and internati
 **Libraries** 
 
  1. WiFi
- 2. WiFiClientSecure (which I think is part of WiFi)
+ 2. WiFiClientSecure (which I think is part of WiFi library)
  3. HTTPClient
  4. ArduinoJson
  5. U8g2lib
 
-Feel free to have a play
-
-
-    images
-
-![Alt text](./images/Untitled3.jpeg)
+==Feel free to have a play==
 
