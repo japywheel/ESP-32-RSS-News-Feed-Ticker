@@ -28,3 +28,4 @@ Feel free to have a play
     images
 
 ![Alt text](./images/Untitled3.jpeg)
+<img src="./images/Untitled3.jpeg" style="width:50%; height:auto;">
