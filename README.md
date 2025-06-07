@@ -27,4 +27,4 @@ Feel free to have a play
 
     images
 
-[Alt text](./images/Untitled3.jpeg)
+![Alt text](./images/Untitled3.jpeg)
