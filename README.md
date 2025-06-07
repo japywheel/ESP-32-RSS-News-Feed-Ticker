@@ -14,7 +14,9 @@ I am Dutch living in the UK so my feeds are a mixture of Dutch /UK and internati
  2. Wifi internet connection :-)
  3. SH1106 OLED screen. (Will work with different different I2C OLEDs but the code needs to be modified
  4. Arduino IDE
- 5. Hookup wiring or soldering skills 
+ 5. Hookup wiring or soldering skills
+
+<img src="./images/Untitled2.jpeg" style="width:50%; height:auto;">
 
 **Libraries** 
 
